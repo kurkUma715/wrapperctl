@@ -1,0 +1,10 @@
+PREFIX ?= /usr/local
+BINDIR ?= $(PREFIX)/bin
+
+install:
+	install -Dm755 wrapperctl $(DESTDIR)$(BINDIR)/wrapperctl
+
+uninstall:
+	rm -f $(DESTDIR)$(BINDIR)/wrapperctl
+
+.PHONY: install uninstall
