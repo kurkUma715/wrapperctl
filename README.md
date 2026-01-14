@@ -85,7 +85,3 @@ wrapperctl list
 This project is open-source. See the LICENSE file for details.
 
 ```
-
-If you want, I can also make a **shorter, super clean GitHub-style version** with badges and sections optimized for visibility. It’ll look more “professional” for a repo. Do you want me to do that?
-```
-
