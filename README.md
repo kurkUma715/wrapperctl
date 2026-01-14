@@ -15,7 +15,7 @@ WrapperCTL is a lightweight Linux script for creating wrapper commands. It allow
 Clone the repository:
 
 ```bash
-git clone https://github.com/kurkUma715/wrapper
+git clone https://github.com/kurkUma715/wrapperctl
 cd wrapper
 ````
 
